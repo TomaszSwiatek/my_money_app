@@ -12,7 +12,7 @@ export default function Login() {
         login(email, password)
         console.log(email, password)
 
-        setEmail("")
+
         setPassword("")
     }
     return (
