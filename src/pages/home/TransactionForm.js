@@ -37,7 +37,7 @@ function TransactionForm({ uid }) {
                     />
                 </label>
                 <label>
-                    <span>Amount ($):</span>
+                    <span>Amount (PLN):</span>
                     <input
                         type="number"
                         required
