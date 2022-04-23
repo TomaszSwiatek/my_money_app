@@ -25,4 +25,4 @@ yarn-error.log*
 #fb
 .firebase
 #credentials
-/firebase/firebaseConfig.js
+src/firebase/firebaseConfig.js
