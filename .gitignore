@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#fb
+.firebase
+#credentials
+/firebase/firebaseConfig.js
